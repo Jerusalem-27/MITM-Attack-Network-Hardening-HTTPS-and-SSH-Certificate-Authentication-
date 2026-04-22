@@ -24,7 +24,7 @@ Captured plaintext credentials during a MITM attack, confirming exposure over un
 ### 2. HTTPS Protection Against MITM  
 
 <p align="center">
-  <img src="./evidence/02 - https-encryption-prevents-credential-exposure.png" width="800">
+  <img src="./evidence/evidence/02 -  https-encryption-prevents-credential-exposure.png" width="800">
 </p>
 
 Re-tested the attack after enabling HTTPS — credentials were no longer visible, confirming encryption effectiveness.
@@ -64,7 +64,7 @@ Configured a Certificate Authority (CA) to issue trusted X.509 certificates.
 ### 6. SSH Certificate Validation  
 
 <p align="center">
-  <img src="./evidence/06 - ssh-certificate-principals-and-extensions.png" width="800">
+  <img src="./evidence/evidence/06 -  ssh-certificate-principals-and-extensions.png" width="800">
 </p>
 
 Verified certificate-based SSH authentication, including principals and access permissions.
