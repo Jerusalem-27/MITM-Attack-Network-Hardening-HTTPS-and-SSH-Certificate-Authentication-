@@ -27,7 +27,7 @@ Captured plaintext credentials during a MITM attack, confirming exposure over un
   <img src="./evidence/02 -  https-encryption-prevents-credential-exposure.png" width="800">
 </p>
 
-Re-tested the attack after enabling HTTPS — credentials were no longer visible, confirming encryption effectiveness.
+Re-tested the attack after enabling HTTPS. Credentials were no longer visible, confirming encryption effectiveness.
 
 ---
 
